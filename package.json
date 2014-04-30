@@ -3,6 +3,7 @@
     "test": "mocha ./test/test.js"
   },
   "devDependencies": {
+    "mocha": "",
     "jquery": ""
   }
 }
