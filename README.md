@@ -1,6 +1,6 @@
 # jQuery.classMatch
 
-[![GitHub version](https://badge.fury.io/gh/ronen%2Fjquery.classMatch)](http://badge.fury.io/gh/ronen%2FclassMatch) [![Build Status](https://travis-ci.org/ronen/jquery.classMatch.png?branch=master)](https://travis-ci.org/ronen/jquery.classMatch)
+[![GitHub version](https://badge.fury.io/gh/ronen%2Fjquery.classMatch)](http://badge.fury.io/gh/ronen%2Fjquery.classMatch) [![Build Status](https://travis-ci.org/ronen/jquery.classMatch.png?branch=master)](https://travis-ci.org/ronen/jquery.classMatch)
 
 jQuery plugin to allow testing and removing classes using regular expressions:
 
