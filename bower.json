@@ -1,0 +1,13 @@
+{
+    "name":        "jquery.classMatch",
+    "version":     "0.1.0",
+    "description": "jQuery plugin to allow testing and removing classes using regular expressions:",
+    "license":     "CC-BY-SA-3.0",
+    "homepage":    "https://github.com/ronen/jquery.classMatch",
+
+    "main":     "./jquery.classMatch.js",
+
+    "dependencies":     {
+        "jquery":       ""
+    }
+}
